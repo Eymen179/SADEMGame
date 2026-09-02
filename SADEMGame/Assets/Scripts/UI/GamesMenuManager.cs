@@ -22,6 +22,15 @@ public class GamesMenuManager : MonoBehaviour
     private string selectedMiniGameScene;
     private string selectedMiniGamePrefix;
 
+    public Color color_WordButtonUnselected;
+    public Color color_WordButtonSelected;
+    public Color color_SentenceButtonUnselected;
+    public Color color_SentenceButtonSelected;
+
+    public Image img_WordButton;
+    public Image img_SentenceButton;
+
+    [Header("Dil Seviyesi Renkleri")]
     // --- Renk Tanimlamalari ---
     public Color colorA1 = new Color(0.33f, 0.75f, 0.33f); // Yeþil
     public Color colorA2 = new Color(0.13f, 0.59f, 0.95f); // Mavi
@@ -42,6 +51,9 @@ public class GamesMenuManager : MonoBehaviour
 
         ScrollView_WordGames.SetActive(true);
         ScrollView_SentenceGames.SetActive(false);
+
+        img_WordButton.color = color_WordButtonSelected;
+        img_SentenceButton.color = color_SentenceButtonUnselected;
     }
 
     public void Button_OpenLanguageSelection(string gameData)
@@ -208,6 +220,9 @@ public class GamesMenuManager : MonoBehaviour
     {
         AudioManager.Instance.PlayAudioClip("Sound_ButtonClick");
 
+        img_WordButton.color = color_WordButtonSelected;
+        img_SentenceButton.color = color_SentenceButtonUnselected;
+
         ScrollView_WordGames.SetActive(true);
         ScrollView_SentenceGames.SetActive(false);
     }
@@ -215,6 +230,9 @@ public class GamesMenuManager : MonoBehaviour
     public void Button_SentenceGames()
     {
         AudioManager.Instance.PlayAudioClip("Sound_ButtonClick");
+        
+        img_WordButton.color = color_WordButtonUnselected;
+        img_SentenceButton.color = color_SentenceButtonSelected;
 
         ScrollView_WordGames.SetActive(false);
         ScrollView_SentenceGames.SetActive(true);
