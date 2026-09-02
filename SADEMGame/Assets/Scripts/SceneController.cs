@@ -5,6 +5,7 @@ public class SceneController : MonoBehaviour
 {
     public static SceneController Instance;
 
+    [HideInInspector] public string sceneNameBeforeNewSceneLoad = "MainMenu";
     private void Awake()
     {
         if (Instance == null)
@@ -27,6 +28,13 @@ public class SceneController : MonoBehaviour
         }
         else
         {
+            string currentScene = SceneManager.GetActiveScene().name;
+
+            if (currentScene.Contains("Menu"))
+            {
+                sceneNameBeforeNewSceneLoad = currentScene;
+            }
+
             SceneManager.LoadScene(sceneName);
         }
     }

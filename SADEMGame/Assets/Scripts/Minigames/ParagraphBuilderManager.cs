@@ -443,7 +443,9 @@ public class ParagraphBuilderManager : MonoBehaviour
 
         sessionScore = 0;
         sessionCorrectCount = 0;
-        SceneController.Instance.LoadScene("GamesMenu");
+
+        SceneController.Instance.LoadScene(SceneController.Instance.sceneNameBeforeNewSceneLoad);
+
     }
 }
 

@@ -469,13 +469,7 @@ public class FastTypingManager : MonoBehaviour
         AudioManager.Instance.PlayAudioClip("Sound_ButtonClick");
 
         Time.timeScale = 1;
-        if (GameSessionData.IsInfinityMode)
-        {
-            SceneController.Instance.LoadScene("GamesMenu");
-        }
-        else
-        {
-            SceneController.Instance.LoadScene("CitiesMenu");
-        }
+
+        SceneController.Instance.LoadScene(SceneController.Instance.sceneNameBeforeNewSceneLoad);
     }
 }

@@ -537,6 +537,7 @@ public class GuessWordManager : MonoBehaviour
 
         sessionGuessedCount = 0;
         sessionBaseScore = 0;
-        SceneController.Instance.LoadScene("GamesMenu");
+
+        SceneController.Instance.LoadScene(SceneController.Instance.sceneNameBeforeNewSceneLoad);
     }
 }

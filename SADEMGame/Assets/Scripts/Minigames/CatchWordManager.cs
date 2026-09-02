@@ -474,6 +474,6 @@ public class CatchWordManager : MonoBehaviour
         sessionCorrectCount = 0;
         totalCorrectCatches = 0;
         Time.timeScale = 1;
-        SceneController.Instance.LoadScene("GamesMenu");
+        SceneController.Instance.LoadScene(SceneController.Instance.sceneNameBeforeNewSceneLoad);
     }
 }
