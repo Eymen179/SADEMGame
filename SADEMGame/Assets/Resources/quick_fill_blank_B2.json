@@ -1,0 +1,805 @@
+{
+  "level": "B2",
+  "questions": [
+    {
+      "sentenceWithBlankTr": "Şirketin yeni projesi hakkında detaylı bir sunum ____.",
+      "missingWordTr": "hazırladım",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Toplantıda alınan kararları tüm çalışanlara e-posta ile ____.",
+      "missingWordTr": "bildirdik",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "İş başvurum kabul edilirse gelecek ay yeni görevime ____.",
+      "missingWordTr": "başlayacağım",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Yıllarca aynı sektörde çalışmak ona büyük bir tecrübe ____.",
+      "missingWordTr": "kazandırdı",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Ekonomik kriz nedeniyle birçok şirket küçülmeye ____.",
+      "missingWordTr": "gitti",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Müşteri memnuniyetini artırmak için yeni stratejiler ____ gerekiyor.",
+      "missingWordTr": "geliştirmemiz",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Ekip çalışmasına uyum sağlayabilen adaylara her zaman ____ verilir.",
+      "missingWordTr": "öncelik",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Sözleşmenin maddelerini dikkatlice okumadan asla ____.",
+      "missingWordTr": "imzalamayın",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Yoğun iş temposu yüzünden son günlerde oldukça ____ hissediyorum.",
+      "missingWordTr": "stresli",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Başarılı bir kariyer inşa etmek uzun ve zorlu bir süreç ____.",
+      "missingWordTr": "gerektirir",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Küresel ısınmanın etkileri artık tüm dünyada açıkça ____.",
+      "missingWordTr": "hissediliyor",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Yenilenebilir enerji kaynaklarına yapılan yatırımlar hızla ____.",
+      "missingWordTr": "artmalı",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Toplumdaki gelir eşitsizliğini azaltmak için acil önlemler ____.",
+      "missingWordTr": "alınmalıdır",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Plastik atıkların okyanuslara verdiği zarar gerçekten ____ verici.",
+      "missingWordTr": "endişe",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Geri dönüşüm konusunda halkı bilinçlendirmek için kampanyalar ____.",
+      "missingWordTr": "düzenleniyor",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Hava kirliliğini önlemek amacıyla fabrikalara ağır cezalar ____.",
+      "missingWordTr": "kesildi",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Çevre dostu teknolojiler geliştirmek geleceğimiz için çok ____.",
+      "missingWordTr": "önemlidir",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Doğal yaşam alanlarının tahrip edilmesi birçok canlı türünü ____ atıyor.",
+      "missingWordTr": "tehlikeye",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Eğitimde fırsat eşitliği sağlamak her devletin temel görevi ____.",
+      "missingWordTr": "olmalıdır",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Hızlı nüfus artışı şehirlerin altyapı sorunlarını daha da ____.",
+      "missingWordTr": "zorlaştırıyor",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Olaylara her zaman farklı bir perspektiften bakmayı ____.",
+      "missingWordTr": "tercih ederim",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "İnsanların önyargılarını yıkmak bazen atomu parçalamaktan daha ____.",
+      "missingWordTr": "zordur",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Başkalarının fikirlerine saygı duymak medeni bir toplumun ____.",
+      "missingWordTr": "gereğidir",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Uzun zamandır görmediğim dostumla karşılaşmak bende büyük bir heyecan ____.",
+      "missingWordTr": "yarattı",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Hayatta karşılaşılan zorluklar aslında kişiliğimizi ____.",
+      "missingWordTr": "güçlendirir",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Düşüncelerini özgürce ifade edebilmek en temel insan ____.",
+      "missingWordTr": "hakkıdır",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Duygularını kontrol edemeyen insanlar genellikle fevri kararlar ____.",
+      "missingWordTr": "alırlar",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Başarısızlıktan korkmak yerine ondan ders çıkarmayı ____.",
+      "missingWordTr": "öğrenmeliyiz",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "İki ülke arasındaki diplomatik kriz nihayet barışçıl yollarla ____.",
+      "missingWordTr": "çözüldü",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Beklentileri karşılayamamak onda derin bir hayal kırıklığına sebep ____.",
+      "missingWordTr": "oldu",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Yapay zeka teknolojileri sağlık sektöründe de devrim ____.",
+      "missingWordTr": "yaratıyor",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Bilim insanları yeni bir virüs türüne karşı aşı geliştirmeyi ____.",
+      "missingWordTr": "başardılar",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Uzay araştırmalarına ayrılan bütçe her geçen yıl giderek ____.",
+      "missingWordTr": "büyüyor",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Düzenli egzersiz yapmak kalp hastalıkları riskini önemli ölçüde ____.",
+      "missingWordTr": "azaltır",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "İnternet sayesinde dünyanın öbür ucundaki bilgiye anında ____.",
+      "missingWordTr": "ulaşabiliyoruz",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Uzmanlar günde en az sekiz saat uyumanın beyin sağlığı için şart olduğunu ____.",
+      "missingWordTr": "vurguluyor",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Genetik mirasımız bazı hastalıklara yatkınlığımızı doğrudan ____.",
+      "missingWordTr": "etkileyebilir",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Akıllı telefon bağımlılığı gençler arasında giderek yaygınlaşan bir problem haline ____.",
+      "missingWordTr": "geldi",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Dengeli beslenme ve düzenli uyku bağışıklık sistemini ____.",
+      "missingWordTr": "güçlendirir",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Tarihteki en büyük icatlardan biri şüphesiz tekerleğin ____.",
+      "missingWordTr": "bulunmasıdır",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Yazarın son romanı eleştirmenler tarafından oldukça başarılı ____.",
+      "missingWordTr": "bulundu",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Modern sanat eserlerini yorumlamak bazen ciddi bir bilgi birikimi ____.",
+      "missingWordTr": "gerektirir",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Tiyatro oyuncularının sahnedeki performansı izleyicileri adeta ____.",
+      "missingWordTr": "büyüledi",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Klasik müzik dinlemenin konsantrasyonu artırdığı bilimsel olarak ____.",
+      "missingWordTr": "kanıtlanmıştır",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Sosyal medyadaki asılsız haberler toplumda kolayca paniğe yol ____.",
+      "missingWordTr": "açabiliyor",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Bu belgesel, kaybolmaya yüz tutmuş geleneksel el sanatlarını ____.",
+      "missingWordTr": "anlatıyor",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Şiir okumak insanın estetik duygusunu ve dil becerisini ____.",
+      "missingWordTr": "geliştirir",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Sergideki tabloların her biri sanatçının iç dünyasını derinlemesine ____.",
+      "missingWordTr": "yansıtıyordu",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Medyanın kamuoyu oluşturmadaki gücü hiçbir zaman göz ardı ____.",
+      "missingWordTr": "edilemez",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Başrol oyuncusunun performansı filmin gişe hasılatını doğrudan ____.",
+      "missingWordTr": "etkiledi",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Uçağın rötar yapması nedeniyle bağlantılı uçuşumu kıl payı ____.",
+      "missingWordTr": "kaçırdım",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Kredi başvurum onaylanır onaylanmaz kendi işimi kurmak için harekete ____.",
+      "missingWordTr": "geçeceğim",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Bu kadar karmaşık bir sorunu tek başına çözebileceğine gerçekten ____ mısın?",
+      "missingWordTr": "inanıyor",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Son zamanlarda yaşanan ekonomik dalgalanmalar fiyatların artmasına sebep ____.",
+      "missingWordTr": "oldu",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Şehirden uzaklaşıp doğayla iç içe bir hayat kurma fikri bana çok cazip ____.",
+      "missingWordTr": "geliyor",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Olayın iç yüzünü öğrenene kadar kimseyi haksız yere suçlamak ____.",
+      "missingWordTr": "istemem",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Bana sorarsan bu projenin zamanında yetişmesi neredeyse ____.",
+      "missingWordTr": "imkansız",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "İki şirket arasındaki rekabet tüketicilere daha ucuz ürünler olarak ____.",
+      "missingWordTr": "yansıyor",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Uzun süren tartışmaların ardından nihayet ortak bir noktada ____.",
+      "missingWordTr": "buluştular",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Evdeki eski eşyaları bağışlamak için dernek yetkilileriyle iletişime ____.",
+      "missingWordTr": "geçtik",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Yapılan son araştırmalar bu teorinin doğruluğunu kesin olarak ____.",
+      "missingWordTr": "ispatlıyor",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Makalenin giriş bölümünde konunun tarihsel arka planı özetle ____.",
+      "missingWordTr": "sunulmuştur",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Bu iki kavram arasındaki farkı net bir şekilde ortaya koymak ____.",
+      "missingWordTr": "gerekir",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "İstatistiksel veriler işsizlik oranının geçen yıla göre düştüğünü ____.",
+      "missingWordTr": "gösteriyor",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Öğrencilerin derse katılımını artırmak için interaktif yöntemler ____.",
+      "missingWordTr": "kullanılmalıdır",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Üniversite yönetimi kampüs içindeki güvenlik önlemlerini artırma kararı ____.",
+      "missingWordTr": "aldı",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Sunumunuz sırasında grafik ve tablolardan yararlanmanız konuyu ____ kılacaktır.",
+      "missingWordTr": "anlaşılır",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Hazırladığım tezin sonuç bölümünde gelecekteki çalışmalara yönelik önerilerde ____.",
+      "missingWordTr": "bulundum",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Uzmanların uyarılarına rağmen birçok kişi bu kuralı ihlal etmeye devam ____.",
+      "missingWordTr": "ediyor",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Bu anketin sonuçları toplumun genel eğilimlerini yansıtması açısından çok ____.",
+      "missingWordTr": "kıymetlidir",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Şemsiyemi yanıma almamış olsaydım aniden bastıran yağmurda sırılsıklam ____.",
+      "missingWordTr": "olurdum",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Toplantıya zamanında yetişebilmek için sabahın çok erken bir saatinde yola ____.",
+      "missingWordTr": "çıktık",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Eğer şartlarda anlaşırsak sözleşmeyi yarın sabah resmi olarak ____.",
+      "missingWordTr": "imzalayabiliriz",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Hava şartları elverişli olmadığı için planladığımız kamp gezisini ____ zorunda kaldık.",
+      "missingWordTr": "ertelemek",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Ne kadar çalışırsan çalış, bazen şansın da yanında olması ____.",
+      "missingWordTr": "gerekir",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Bana önceden haber verseydin akşam yemeği için ona göre bir hazırlık ____.",
+      "missingWordTr": "yapardım",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Projedeki hataları zamanında fark etmeseydik şirket büyük bir zarara ____.",
+      "missingWordTr": "uğrayabilirdi",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Bu ilacı düzenli kullanmadığın sürece tam anlamıyla iyileşmen mümkün ____.",
+      "missingWordTr": "değil",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Trafik o kadar yoğundu ki eve varmamız planladığımızdan iki saat daha uzun ____.",
+      "missingWordTr": "sürdü",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Bütün uyarılara rağmen kendi bildiğini okumaya devam etmesi beni çok ____.",
+      "missingWordTr": "şaşırtıyor",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "İkili ilişkilerde karşılıklı güven ve saygı her şeyden daha ____.",
+      "missingWordTr": "önemlidir",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Onunla aramızdaki yanlış anlaşılmayı gidermek için uzun uzun ____.",
+      "missingWordTr": "konuştuk",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Kendi hatalarını kabul edip özür dilemek büyük bir erdem ____.",
+      "missingWordTr": "göstergesidir",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Ne yazık ki söylediklerimi tamamen yanlış yorumlamış ve bana tavır ____.",
+      "missingWordTr": "almış",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Empati kurabilen insanlar çevrelerindeki sorunlara daha duyarlı ____.",
+      "missingWordTr": "yaklaşırlar",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "İnsanların yüzüne karşı dürüst olmak arkasından konuşmaktan her zaman daha ____.",
+      "missingWordTr": "iyidir",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Sırrımı kimseye söylemeyeceğine dair bana söz verdiği halde herkese ____.",
+      "missingWordTr": "anlatmış",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Dünkü tartışmadan sonra ondan özür dilememek için zor ____.",
+      "missingWordTr": "tutuyorum",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Birine körü körüne inanmak bazen büyük hayal kırıklıklarına neden ____.",
+      "missingWordTr": "olabilir",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Farklı fikirlere tahammül edemeyen insanlarla sağlıklı iletişim kurmak oldukça ____.",
+      "missingWordTr": "güçtür",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Yabancı dil öğrenirken sadece gramer değil, o dilin kültürünü de kavramak ____.",
+      "missingWordTr": "önemlidir",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Tatil planlarımızı bütçemize uygun olacak şekilde yeniden gözden ____.",
+      "missingWordTr": "geçirmeliyiz",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Karşılaştığı onca zorluğa rağmen hayallerinden asla taviz ____.",
+      "missingWordTr": "vermedi",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Gelişen teknolojiyle birlikte bazı geleneksel meslekler yavaş yavaş ortadan ____.",
+      "missingWordTr": "kalkıyor",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Şirketin finansal durumu hakkında detaylı bir analiz raporu hazırlamam ____.",
+      "missingWordTr": "istendi",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "İklim kurgu edebiyatı son yıllarda okuyucular arasında büyük bir popülarite ____.",
+      "missingWordTr": "kazandı",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Şehrin tarihi dokusunu korumak için yeni inşaat projelerine kısıtlamalar ____.",
+      "missingWordTr": "getirildi",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Yüksek stres altında çalışmak uzun vadede ciddi sağlık sorunlarına yol ____.",
+      "missingWordTr": "açabilir",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Aldığı ödülü yıllardır ona destek olan ailesine ve öğretmenlerine ____.",
+      "missingWordTr": "armağan etti",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Önümüzdeki on yıl içinde yapay zekanın hayatımızın her alanına nüfuz etmesi ____.",
+      "missingWordTr": "bekleniyor",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    }
+  ]
+}

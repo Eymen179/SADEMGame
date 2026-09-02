@@ -1,0 +1,805 @@
+{
+  "level": "A1",
+  "questions": [
+    {
+      "sentenceWithBlankTr": "Ben her sabah saat yedide ____.",
+      "missingWordTr": "uyanırım",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Benim ____ Ahmet, yirmi yaşındayım.",
+      "missingWordTr": "adım",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Bugün hava çok ____, ince giyin.",
+      "missingWordTr": "sıcak",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Annem mutfakta çok güzel yemek ____.",
+      "missingWordTr": "yapar",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Biz okulda arkadaşlarımızla Türkçe ____.",
+      "missingWordTr": "öğreniyoruz",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Benim beyaz renkli bir kedim ____.",
+      "missingWordTr": "var",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Ben yirmi iki ____ ve öğrenciyim.",
+      "missingWordTr": "yaşındayım",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Kahvaltıda kırmızı elma yemeyi çok ____.",
+      "missingWordTr": "severim",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Babam her sabah kalktığında gazete ____.",
+      "missingWordTr": "okur",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Hafta sonu ailemle birlikte sinemaya ____.",
+      "missingWordTr": "gideceğiz",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Akşamları kanepede oturup televizyon ____.",
+      "missingWordTr": "izliyorum",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Marketten taze meyve ve iki ekmek ____.",
+      "missingWordTr": "aldım",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Benim arabam kırmızı, senin araban ne ____?",
+      "missingWordTr": "renk",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "O benim okuldan en yakın ____.",
+      "missingWordTr": "arkadaşım",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Parkta çocuklar top koşuşturup oyun ____.",
+      "missingWordTr": "oynuyor",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Masanın üzerinde kırmızı kapaklı bir kitap ____.",
+      "missingWordTr": "duruyor",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Yarın pazar olduğu için okullar ____.",
+      "missingWordTr": "kapalı",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Ben kahvede süt veya şeker ____.",
+      "missingWordTr": "sevmem",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Çok susadım, lütfen bana bir bardak su ____.",
+      "missingWordTr": "ver",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Bu çanta çok ____, taşıyamıyorum.",
+      "missingWordTr": "ağır",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Akşam yemeğinde ailece sıcak bir çorba ____.",
+      "missingWordTr": "içtik",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Hava çok soğuk, lütfen kapıyı ____.",
+      "missingWordTr": "kapat",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Bugün saat kaçta okuldan ____?",
+      "missingWordTr": "geliyorsun",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Yarın sabah saat kaçta uyanmak ____?",
+      "missingWordTr": "istiyorsun",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Ben doğduğumdan beri İstanbul'da ____.",
+      "missingWordTr": "yaşıyorum",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Dedem çok yaşlı ve bugün biraz ____.",
+      "missingWordTr": "hasta",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Hastanede hastaları iyileştirmek için doktorlar ____.",
+      "missingWordTr": "çalışır",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Dün pazardı, bugün günlerden ____.",
+      "missingWordTr": "Pazartesi",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Dün akşam televizyon izlerken çok geç ____.",
+      "missingWordTr": "uyudum",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Benim büyük abim üniversite ____.",
+      "missingWordTr": "öğrencisidir",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Ablam yirmi beş yaşında, o benden daha ____.",
+      "missingWordTr": "büyük",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Pazar günü tatil olduğu için evde ____.",
+      "missingWordTr": "dinleniyorum",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Ben yabancı dillerden sadece Türkçe konuşmayı ____.",
+      "missingWordTr": "biliyorum",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Sokaktaki kediler fareleri çok kolay ____.",
+      "missingWordTr": "yakalar",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Yaz mevsiminde hava genellikle çok sıcak ____.",
+      "missingWordTr": "olur",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Benim adım Ali, tanıştığıma çok memnun ____.",
+      "missingWordTr": "oldum",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Ailenizle birlikte hangi şehirde ____?",
+      "missingWordTr": "oturuyorsunuz",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Bizim evimiz şehir merkezine çok ____.",
+      "missingWordTr": "yakın",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Bahçedeki ağaçta büyük kırmızı elmalar ____.",
+      "missingWordTr": "var",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Kışın havalar soğuyunca her yere kar ____.",
+      "missingWordTr": "yağar",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Boş zamanlarımda sadece klasik müzik dinlemeyi ____.",
+      "missingWordTr": "seviyorum",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Okul çantamın içinde sadece iki tane kalem ____.",
+      "missingWordTr": "var",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Dün mağazadan aldığın bu elbise sana çok ____.",
+      "missingWordTr": "yakıştı",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Yarın öğleden sonra kafede seninle buluşmak ____.",
+      "missingWordTr": "istiyorum",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Affedersiniz, en yakın otobüs durağı nerede ____ musunuz?",
+      "missingWordTr": "biliyor",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Dün akşam o yeni restoranda lezzetli yemekler ____.",
+      "missingWordTr": "yedik",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Akşam yemeğinden hemen sonra genellikle çay ____.",
+      "missingWordTr": "içeriz",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Küçük kardeşim odasında oyuncaklarıyla ____.",
+      "missingWordTr": "oynuyor",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Bugün hiçbir ağrım yok, kendimi çok iyi ____.",
+      "missingWordTr": "hissediyorum",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Sokaktaki köpekler yüksek sesle ____.",
+      "missingWordTr": "havlıyor",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Ben sabahları kahvaltıda mutlaka peynir ve yumurta ____.",
+      "missingWordTr": "yerim",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Futbol mu yoksa basketbol mu oynamak ____?",
+      "missingWordTr": "istiyorsun",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Ayşe derslerine hep çalışır, o çok çalışkan bir ____.",
+      "missingWordTr": "öğrencidir",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Denizde yüzmek için sabırsızlıkla yaz mevsimini ____.",
+      "missingWordTr": "bekliyorum",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Kütüphanede ders çalışanları rahatsız etmemek için sessiz olmak ____.",
+      "missingWordTr": "gerekiyor",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Benim yaşadığım apartmanda evimiz dördüncü ____.",
+      "missingWordTr": "katta",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Alışveriş yaptıktan sonra cüzdanımda hiç para ____.",
+      "missingWordTr": "kalmadı",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Dün çok hastalandığım için hemen doktora ____.",
+      "missingWordTr": "gittim",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Lütfen yemekten kalkmadan önce tabağındakileri ____.",
+      "missingWordTr": "bitir",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Benim okuma gözlüğüm masanın üzerinde ____.",
+      "missingWordTr": "duruyor",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Maalesef ben tenis veya futbol oynamayı ____.",
+      "missingWordTr": "bilmiyorum",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Yaz tatilinde ailemle birlikte Antalya'ya gitmek ____.",
+      "missingWordTr": "istiyoruz",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Kitabın ilk sayfasını dün akşam ____.",
+      "missingWordTr": "okudum",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Annem bana doğum günümde çok güzel bir hediye ____.",
+      "missingWordTr": "aldı",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Ben Türkçeyi yeni öğreniyorum, lütfen yavaş ____.",
+      "missingWordTr": "konuşun",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Söylediklerinizi anlamadım, lütfen tekrar eder ____?",
+      "missingWordTr": "misiniz",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Dışarıda rüzgar esiyor ve şiddetli yağmur ____.",
+      "missingWordTr": "yağıyor",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Benim hiç ablam yok ama iki tane erkek kardeşim ____.",
+      "missingWordTr": "var",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Okuldaki yeni sınıfımızda yirmi öğrenci ____.",
+      "missingWordTr": "bulunuyor",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Eve gelince televizyonu açıp akşam haberlerini ____.",
+      "missingWordTr": "izledim",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Kahvaltıda meyve suyu değil siyah çay içmeyi ____.",
+      "missingWordTr": "severim",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Dün mağazadan aldığım bu ayakkabılar bana çok ____.",
+      "missingWordTr": "büyük",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Bahar geldiğinde bahçedeki çiçekler çok güzel ____.",
+      "missingWordTr": "kokuyor",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Her sabah taze süt içmek büyüyen çocuklar için çok ____.",
+      "missingWordTr": "faydalıdır",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Çok uykum var, bu yüzden akşam erken yatmak ____.",
+      "missingWordTr": "istiyorum",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Bugün benim en mutlu günüm çünkü benim doğum ____.",
+      "missingWordTr": "günüm",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Odası çok sıcak oldu, pencereyi aç içeri temiz hava ____.",
+      "missingWordTr": "girsin",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Kahvem çok acı oldu, içine biraz şeker eklemek ____.",
+      "missingWordTr": "istiyorum",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Ders başladıktan sonra öğretmen tahtaya kırmızı kalemle yazı ____.",
+      "missingWordTr": "yazdı",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Alışverişe gitmeden önce bankadan biraz para çekmek ____.",
+      "missingWordTr": "lazım",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Telefonumu şarja takmam gerekiyor çünkü bataryası ____.",
+      "missingWordTr": "bitti",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Yolculuk için biletlerimizi aldık, uçak saat beşte ____.",
+      "missingWordTr": "kalkacak",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Evimizin arka bahçesinde yazın gölgesinde oturduğumuz büyük bir ağaç ____.",
+      "missingWordTr": "var",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Sağlıklı yaşamak için parkta her gün bir saat yürüyüş ____.",
+      "missingWordTr": "yaparım",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Akşamki yeni tiyatro oyununu izlemek için gişeden iki bilet ____.",
+      "missingWordTr": "aldım",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Ben sessizliği sevdiğim için kitap okurken asla müzik ____.",
+      "missingWordTr": "dinlemem",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Dışarı çıkmadan önce şemsiyeni al, gökyüzü çok karanlık ve yağmur ____.",
+      "missingWordTr": "yağıyor",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Zil çaldıktan sonra bütün çocuklar okul bahçesinde ____.",
+      "missingWordTr": "koşuyorlar",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Ablam üniversiteyi bitirdi ve bugün yeni işine ____.",
+      "missingWordTr": "başladı",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Akşam yemeği salatası yapmak için marketten taze sebzeler ____.",
+      "missingWordTr": "aldık",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Ailemdeki herkes mavi gözlü ama benim gözlerim kahve ____.",
+      "missingWordTr": "rengidir",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Ağız sağlığım için akşam uyumadan önce mutlaka dişlerimi ____.",
+      "missingWordTr": "fırçalarım",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Saçlarım son günlerde çok uzadı, yarın kuaföre gidip kestirmek ____.",
+      "missingWordTr": "istiyorum",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Restoranda ana yemeği bitirdikten sonra tatlı olarak çikolatalı pasta ____.",
+      "missingWordTr": "yedik",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Bugün hava gerçekten çok soğuk, dışarı çıkarken mutlaka kalın montunu ____.",
+      "missingWordTr": "giy",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Yabancı bir dil olarak Türkçe öğrenmek hem zor hem de çok ____.",
+      "missingWordTr": "eğlenceli",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Bizim okuldaki sınıfımız merdivenleri çıktıktan sonra ikinci ____.",
+      "missingWordTr": "katta",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Ali işe geç kalmamak için her sabah duraktan otobüse ____.",
+      "missingWordTr": "biner",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Buralarda yeniyim, ana tren istasyonuna yürüyerek nasıl ____?",
+      "missingWordTr": "gidebilirim",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Bu hayattaki en değerli şeyim sizsiniz, sizi çok seviyorum canım ____.",
+      "missingWordTr": "ailem",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    }
+  ]
+}

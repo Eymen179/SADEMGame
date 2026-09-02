@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: e36db8f68db6eda44ad383464880bb56
+  - enabled: 1
+    path: Assets/Scenes/GamesMenu.unity
+    guid: b7320f5afc6ff55439fa8e0a896cc342
+  - enabled: 1
+    path: Assets/Scenes/LevelsMenu.unity
+    guid: 1d3db5598db42fb46bab7fba4ca5b37c
+  - enabled: 1
+    path: Assets/Scenes/FastTyping.unity
+    guid: 0213d20dade600747972aebe156c0fb3
+  - enabled: 1
+    path: Assets/Scenes/GuessWord.unity
+    guid: f9caae6f3d167ec49abe5a2b90f3e1a1
+  - enabled: 1
+    path: Assets/Scenes/QuickMatch.unity
+    guid: 4e51af9476d112041a28d4b2723711bb
+  - enabled: 1
+    path: Assets/Scenes/CatchWord.unity
+    guid: 7bc93ba9f41149e49aa8e56c50f3e1cc
+  - enabled: 1
+    path: Assets/Scenes/QuickSpeak.unity
+    guid: 3a21ed5a9ba81374f8d96e495f5d4a2e
+  - enabled: 1
+    path: Assets/Scenes/QuickFillBlank.unity
+    guid: 0da505b206932964a8c3005399e3cef0
+  - enabled: 1
+    path: Assets/Scenes/QuickFindTrue.unity
+    guid: ec3a568c47807f748bd975906e4717c0
+  - enabled: 1
+    path: Assets/Scenes/QuickTest.unity
+    guid: a2bb72b46079cb14aa694549e4f36cef
+  - enabled: 1
+    path: Assets/Scenes/QuickSort.unity
+    guid: 9577743a331c82b46a335d7dc7f5b2ab
+  - enabled: 1
+    path: Assets/Scenes/ParagraphBuilder.unity
+    guid: 020385e2184be3d4499ed1849b2d6b05
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
+  m_UseUCBPForAssetBundles: 0

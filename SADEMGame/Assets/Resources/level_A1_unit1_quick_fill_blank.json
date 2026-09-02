@@ -1,0 +1,405 @@
+{
+  "level": "A1",
+  "questions": [
+    {
+      "sentenceWithBlankTr": "Haftanın ilk günü ____.",
+      "missingWordTr": "pazartesi",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Bugün günlerden ____, yarın ise çarşamba olacak.",
+      "missingWordTr": "salı",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Hafta sonu tatili cumartesi ve ____ günleridir.",
+      "missingWordTr": "pazar",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Yılın on ikinci ve son ayı ____ ayıdır.",
+      "missingWordTr": "aralık",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Gökyüzü bulutsuz ve çok güzel bir ____ renginde.",
+      "missingWordTr": "mavi",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Benim en sevdiğim renk ____.",
+      "missingWordTr": "kırmızı",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Ağaçların yaprakları ilkbaharda ____ renktedir.",
+      "missingWordTr": "yeşil",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Türkiye'nin başkenti neresidir? ____.",
+      "missingWordTr": "Ankara",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Sen Türkiye'de ____ şehrinde mi yaşıyorsun?",
+      "missingWordTr": "İstanbul",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Fransa'nın başkenti ____ şehridir.",
+      "missingWordTr": "Paris",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "İngilizce en çok ____ ülkesinde konuşulur.",
+      "missingWordTr": "İngiltere",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Yaz mevsiminde hava genellikle çok ____ olur.",
+      "missingWordTr": "sıcak",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Kış mevsiminde hava çok ____ olur.",
+      "missingWordTr": "soğuk",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Hangi mevsimde her yer bembeyaz kar olur? ____.",
+      "missingWordTr": "Kış",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Japonya bir Asya ____.",
+      "missingWordTr": "ülkesidir",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Portakal ve mandalina ____ renktedir.",
+      "missingWordTr": "turuncu",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Gece olunca gökyüzü ____ renk olur.",
+      "missingWordTr": "siyah",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Süt ve pamuk her zaman ____ renktedir.",
+      "missingWordTr": "beyaz",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Bugün günlerden ____, yarın hafta sonu başlıyor!",
+      "missingWordTr": "cuma",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Bizim okul cumartesi ve ____ günleri tatildir.",
+      "missingWordTr": "pazar",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Yılın birinci ayı ____ ayıdır.",
+      "missingWordTr": "ocak",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Hangi ayda Sevgililer Günü kutlanır? ____.",
+      "missingWordTr": "Şubat",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "İlkbaharın birinci ayı ____ ayıdır.",
+      "missingWordTr": "mart",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Yaz tatili genellikle ____ ayında başlar.",
+      "missingWordTr": "haziran",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Yılın en sıcak ayı genellikle ____ ayıdır.",
+      "missingWordTr": "ağustos",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Sonbahar mevsimi ____ ayında başlar.",
+      "missingWordTr": "eylül",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Kış mevsimi aralık, ocak ve ____ aylarından oluşur.",
+      "missingWordTr": "şubat",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "İtalya'nın başkenti olan tarihi şehir neresidir? ____.",
+      "missingWordTr": "Roma",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Rusya yüzölçümü olarak çok ____ bir ülkedir.",
+      "missingWordTr": "büyük",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "New York, ____ ülkesinde bulunan çok ünlü bir şehirdir.",
+      "missingWordTr": "Amerika",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Güneş her sabah gökyüzünde ____ renkte parlar.",
+      "missingWordTr": "sarı",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Kız kardeşim kıyafetlerinde her zaman ____ rengi tercih eder.",
+      "missingWordTr": "pembe",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Bulutlu ve yağmurlu günlerde gökyüzü ____ renk olur.",
+      "missingWordTr": "gri",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Çikolata ve kahve genellikle ____ renktedir.",
+      "missingWordTr": "kahverengi",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Benim yeni aldığım arabam parlak ____ renkte.",
+      "missingWordTr": "siyah",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Haftanın üçüncü günü olan gün ____ günüdür.",
+      "missingWordTr": "çarşamba",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "İngilizce kursumuz haftanın dördüncü günü olan ____ günü yapılıyor.",
+      "missingWordTr": "perşembe",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Mayıs ayından hemen sonra ____ ayı gelir.",
+      "missingWordTr": "haziran",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Kasım ayından hemen önce ____ ayı vardır.",
+      "missingWordTr": "ekim",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Yaz tatili için Avrupa'da ____ ülkesine gitmek istiyorum.",
+      "missingWordTr": "İspanya",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Tokyo, ____ ülkesinin başkenti olan kalabalık bir şehirdir.",
+      "missingWordTr": "Japonya",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Antalya, Türkiye'nin güneyinde yer alan turistik bir ____.",
+      "missingWordTr": "şehirdir",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Sen en çok hangi ____ seversin? Yaz mı, kış mı?",
+      "missingWordTr": "mevsimi",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Yaz aylarında okullar kapanır ve üç ay ____ olur.",
+      "missingWordTr": "tatil",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Sıcak yaz mevsiminden sonra serin ____ mevsimi gelir.",
+      "missingWordTr": "sonbahar",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "İlkbahar, yaz, sonbahar ve ____ dünyadaki dört mevsimdir.",
+      "missingWordTr": "kış",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Berlin, ____ ülkesinin başkenti olan tarihi bir şehirdir.",
+      "missingWordTr": "Almanya",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Bugün hava gerçekten çok ____, lütfen dışarı çıkarken montunu giy.",
+      "missingWordTr": "soğuk",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Temmuz ayı, yaz mevsiminin ortası ve en sıcak ____.",
+      "missingWordTr": "ayıdır",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Ekim ve kasım aylarında ağaçların yaprakları dökülür ve ____ renk olur.",
+      "missingWordTr": "sarı",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    }
+  ]
+}

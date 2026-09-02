@@ -1,0 +1,805 @@
+{
+  "level": "C1",
+  "questions": [
+    {
+      "sentenceWithBlankTr": "Tarihsel veriler, medeniyetlerin yükseliş ve çöküşünde iklim değişikliklerinin kritik bir rol ____ göstermektedir.",
+      "missingWordTr": "oynadığını",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Yazarın eserlerindeki yoğun sembolizm, okuyucunun metni çok katmanlı bir şekilde ____ talep ediyor.",
+      "missingWordTr": "yorumlamasını",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Ekonomik dalgalanmaların yol açtığı belirsizlik ortamı, yabancı yatırımcıların piyasadan ____ neden oldu.",
+      "missingWordTr": "çekilmesine",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Modern psikoloji, insan davranışlarının yalnızca genetik faktörlere değil, aynı zamanda çevresel etkilere de ____ kabul eder.",
+      "missingWordTr": "dayandığını",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Böylesine karmaşık bir diplomasi krizinin kısa sürede ve barışçıl yollarla ____ pek olası görünmüyor.",
+      "missingWordTr": "çözülmesi",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Kuantum mekaniği, geleneksel fizik yasalarının bazı durumlarda yetersiz ____ kanıtlayan teoriler bütünüdür.",
+      "missingWordTr": "kaldığını",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Sanayi devriminin ardından artan karbon emisyonları, küresel ısınma sürecini ____ ana etkenlerden biridir.",
+      "missingWordTr": "tetikleyen",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Yönetim kurulunun aldığı bu radikal karar, şirket içi dinamiklerde köklü bir değişikliğe ____ olacaktır.",
+      "missingWordTr": "neden",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Eğer o günkü müzakerelerde taviz verilmeseydi, iki ülke arasındaki ilişkiler tamamen ____ noktasına gelebilirdi.",
+      "missingWordTr": "kopma",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Toplumsal eşitsizliklerin derinleşmesi, suç oranlarındaki artışla doğrudan ____ bir durumdur.",
+      "missingWordTr": "orantılı",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Eleştirmenler, yönetmenin son filminin görsel estetik açısından bir başyapıt olduğunu ____ konusunda hemfikir.",
+      "missingWordTr": "olduğu",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Uzay araştırmalarındaki son bulgular, evrenin kökenine dair bilinen birçok teoriyi yeniden ____ zorunlu kılıyor.",
+      "missingWordTr": "sorgulamayı",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Bir liderin en önemli vasfı, kriz anlarında soğukkanlılığını koruyarak rasyonel kararlar ____.",
+      "missingWordTr": "alabilmesidir",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Dilin statik bir yapı olmadığını, aksine zaman içinde sürekli ____ canlı bir organizma olduğunu unutmamalıyız.",
+      "missingWordTr": "evrilen",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Farklı kültürlerin bir arada yaşayabilmesi, ancak karşılıklı hoşgörü ve empatinin ____ mümkündür.",
+      "missingWordTr": "kurulmasıyla",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Bilim insanlarının sunduğu iklim raporu, gelecekte bizi bekleyen felaketlerin adeta bir ____ niteliğinde.",
+      "missingWordTr": "habercisi",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Yapay zeka etiği üzerine yapılan tartışmalar, teknolojinin sınırlarının yasal çerçevelerle ____ gerektiğini gösteriyor.",
+      "missingWordTr": "belirlenmesi",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Mimari projelerde estetik kaygılar güdülürken, aynı zamanda çevresel sürdürülebilirliğin de göz önünde ____ şarttır.",
+      "missingWordTr": "bulundurulması",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Bürokratik engellerin aşılması, doğrudan yabancı yatırımların ülkeye girişini ____ en önemli faktörlerden biridir.",
+      "missingWordTr": "hızlandıran",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Sanatçının eserlerindeki melankolik atmosfer, onun trajik çocukluk anılarının açık bir ____ olarak değerlendirilebilir.",
+      "missingWordTr": "yansıması",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Küreselleşme, yerel kültürleri tehdit etmekle eleştirilse de, kültürlerarası etkileşimi ____ yadsınamaz bir gerçektir.",
+      "missingWordTr": "artırdığı",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Bu denli kapsamlı bir yasa tasarısının meclisten hiçbir muhalefetle karşılaşmadan ____ oldukça şaşırtıcıydı.",
+      "missingWordTr": "geçmesi",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Genetik mühendisliğindeki gelişmeler, tedavisi imkansız sanılan birçok hastalığa umut ____ olmuştur.",
+      "missingWordTr": "ışığı",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Bir teorinin bilimsel sayılabilmesi için, yanlışlanabilir olma özelliğini mutlaka ____ gerekir.",
+      "missingWordTr": "taşıması",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Eğitim sistemindeki ezberci yaklaşım, öğrencilerin analitik düşünme yeteneklerinin ____ en büyük engeldir.",
+      "missingWordTr": "gelişmesinin",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Toplumsal normlara aykırı davranmak, bireyin toplum tarafından izole ____ riskini her zaman beraberinde getirir.",
+      "missingWordTr": "edilmesi",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Olayın perde arkasındaki gerçekler ortaya çıktığında, aslında hiçbir şeyin göründüğü gibi ____ anladık.",
+      "missingWordTr": "olmadığını",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Medyadaki manipülatif haberler, kamuoyunun tarafsız bir şekilde bilgi edinme hakkını ciddi şekilde ____.",
+      "missingWordTr": "ihlal etmektedir",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Onun bu agresif tutumu, tamamen kendi içindeki güvensizlik duygusunu ____ yönelik bir savunma mekanizmasıdır.",
+      "missingWordTr": "gizlemeye",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "İnsanlığın varoluşsal krizleri, tarih boyunca pek çok filozofun üzerinde ____ temel konulardan biri olmuştur.",
+      "missingWordTr": "uzlaştığı",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Söz konusu iddiaların doğruluğunu ispatlamak için daha somut ve reddedilemez deliller ____ gereklidir.",
+      "missingWordTr": "sunulması",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Gelecek nesillere yaşanabilir bir dünya bırakmak istiyorsak, bireysel karbon ayak izimizi mutlaka ____ zorundayız.",
+      "missingWordTr": "küçültmek",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Demokrasinin sağlam temeller üzerine oturması, hukukun üstünlüğü ilkesinin tavizsiz bir şekilde ____ bağlıdır.",
+      "missingWordTr": "uygulanmasına",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Kriz yönetiminde yapılan stratejik hatalar, şirketin pazar payında dramatik bir düşüş ____.",
+      "missingWordTr": "yaşanmasına",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Bir edebiyat eserinin edebi değerini belirleyen asıl unsur, okuyucuda uyandırdığı estetik ____ yoğunluğudur.",
+      "missingWordTr": "haz",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Gelişmekte olan ülkeler, beyin göçünü önlemek için akademisyenlere çok daha cazip imkanlar ____.",
+      "missingWordTr": "sunmalıdır",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Bütün zorluklara ve engellemelere rağmen, savunduğu değerlerden bir an bile ____ geri adım atmadı.",
+      "missingWordTr": "olsun",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Modern tıp, fiziksel hastalıkların tedavisinde olduğu kadar, hastaların psikolojik sağlığının ____ da büyük önem vermektedir.",
+      "missingWordTr": "korunmasına",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Farklı disiplinlerden gelen uzmanların bir araya gelmesi, projenin inovatif yönünü oldukça ____.",
+      "missingWordTr": "zenginleştirdi",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Giderek artan tüketim çılgınlığı, doğal kaynakların hızla ve geri dönülemez bir şekilde ____ neden olmaktadır.",
+      "missingWordTr": "tükenmesine",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Yazara göre, mutlak bir özgürlük kavramı tamamen illüzyondan ibarettir; zira insan her halükarda toplumsal normlara ____.",
+      "missingWordTr": "tabidir",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Bir şirketin vizyonunu çalışanlarına aşılayabilmesi, ancak güçlü ve şeffaf bir kurumsal iletişim ağı ____ mümkündür.",
+      "missingWordTr": "kurmasıyla",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Nükleer enerjinin riskleri göz önüne alındığında, alternatif enerji kaynaklarına yönelmenin ____ olduğu bir gerçektir.",
+      "missingWordTr": "kaçınılmaz",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Antik Yunan felsefesi, Batı medeniyetinin düşünsel temellerinin ____ en kritik dönemdir.",
+      "missingWordTr": "atıldığı",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Siber saldırılara karşı alınacak önlemler, dijital çağda ulusal güvenliğin en öncelikli ____ biri haline gelmiştir.",
+      "missingWordTr": "maddelerinden",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Yoksulluk sarmalından kurtulmanın en etkili ve kalıcı yolu, nitelikli eğitime erişimin toplumun her kesimine ____.",
+      "missingWordTr": "sağlanmasıdır",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Dünkü toplantıda ortaya atılan bu yenilikçi fikirler, şirketin gelecekteki yol haritasını büyük ölçüde ____.",
+      "missingWordTr": "şekillendirecektir",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Aşı karşıtı kampanyalar, halk sağlığını tehdit etmesinin yanı sıra bilime duyulan güveni de derinden ____.",
+      "missingWordTr": "sarsmaktadır",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Uluslararası antlaşmaların bağlayıcılığı, taraf devletlerin iyi niyet çerçevesinde hareket ____ bağlıdır.",
+      "missingWordTr": "etmelerine",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "İnsan beyninin nöroplastisite özelliği sayesinde, ileri yaşlarda bile yeni ve karmaşık beceriler ____ mümkündür.",
+      "missingWordTr": "edinmek",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Karakterlerin içsel çatışmalarını böylesine ustalıkla kaleme alması, yazarın psikolojik gözlem yeteneğinin ____ kanıtıdır.",
+      "missingWordTr": "su götürmez",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Otonom araçların trafikte yaygınlaşması, yasal mevzuatta ciddi ve kapsamlı güncellemeler ____ zorunlu kılmaktadır.",
+      "missingWordTr": "yapılmasını",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Enflasyon oranlarının kontrol altına alınamaması, orta sınıfın alım gücünde dramatik bir ____ neden olmuştur.",
+      "missingWordTr": "erimeye",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Toplumsal cinsiyet eşitsizliği sadece kadınların değil, tüm toplumun potansiyelini gerçekleştirmesini engelleyen bir ____.",
+      "missingWordTr": "prangadır",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Elde edilen bu arkeolojik bulgular, o dönemin sosyokültürel yapısına dair bildiklerimizi tamamen ____ potansiyeline sahip.",
+      "missingWordTr": "değiştirme",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Sosyal refah devleti anlayışı, vatandaşların asgari yaşam standartlarının devlet güvencesi altına ____ temel alır.",
+      "missingWordTr": "alınmasını",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Kriz anlarında liderlerin sergilediği tutum, toplumun genel psikolojisi üzerinde belirleyici bir ____ yaratır.",
+      "missingWordTr": "etki",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "İnsanlığın evrensel değerleri etrafında birleşmesi, savaşların ve bölgesel çatışmaların ____ yegane yoldur.",
+      "missingWordTr": "önlenmesinin",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Böylesine radikal bir değişimin, muhafazakar kesimler tarafından büyük bir dirençle ____ kaçınılmazdı.",
+      "missingWordTr": "karşılanması",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Uzun vadeli ekonomik büyüme, sadece üretime değil, aynı zamanda yenilikçi Ar-Ge çalışmalarına ____ bağlıdır.",
+      "missingWordTr": "odaklanmaya",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Bireylerin kendilerini gerçekleştirebilmeleri için, hiyerarşik baskılardan arındırılmış özgür bir ortama ____ vardır.",
+      "missingWordTr": "ihtiyaçları",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Mimari tasarım, yalnızca estetik bir unsur olmakla kalmayıp, mekanı kullanan insanların psikolojisini de doğrudan ____.",
+      "missingWordTr": "şekillendirir",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Demografik verilerdeki bu ani değişimler, gelecekteki emeklilik ve sağlık sistemleri üzerinde ağır bir ____ oluşturacaktır.",
+      "missingWordTr": "baskı",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Algoritmaların kendi başlarına karar alabilir hale gelmesi, yapay zekanın hukuki statüsüne dair derin tartışmaları ____.",
+      "missingWordTr": "alevlendirmiştir",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Eserin orijinal dilindeki edebi inceliklerin, çeviri esnasında bir miktar ____ uğraması ne yazık ki kaçınılmazdır.",
+      "missingWordTr": "erozyona",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Sanayileşme ile birlikte kırsal alanlardan şehirlere doğru yaşanan yoğun göç, çarpık kentleşmenin ____ sebeplerindendir.",
+      "missingWordTr": "başlıca",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Taraflar arasındaki uzlaşmazlık o kadar derindi ki, arabulucuların çabaları bile durumu düzeltmeye ____.",
+      "missingWordTr": "yetmedi",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Çocukluk çağında yaşanan travmalar, yetişkinlik dönemindeki psikolojik bozuklukların temelinde ____ en önemli unsurdur.",
+      "missingWordTr": "yatan",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Mevcut altyapının yetersizliği göz önüne alındığında, böyle devasa bir projeyi hayata geçirmek büyük bir ____ taşımaktadır.",
+      "missingWordTr": "risk",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Kültürel asimilasyon politikaları, azınlık gruplarının kendi öz kimliklerini koruma çabalarını oldukça ____.",
+      "missingWordTr": "zorlaştırmaktadır",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Gelecek nesillere daha yaşanabilir bir çevre bırakma vizyonu, sadece hükümetlerin değil, tüm insanlığın ortak ____ olmalıdır.",
+      "missingWordTr": "misyonu",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Söz konusu yasa tasarısının onaylanması halinde, sendikaların grev haklarına çok ciddi kısıtlamalar ____ öngörülmektedir.",
+      "missingWordTr": "getirilmesi",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Sanatçı, modern dünyanın getirdiği yabancılaşma hissini eserlerine çok çarpıcı bir biçimde ____ başarmış.",
+      "missingWordTr": "aktarmayı",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Küresel tedarik zincirindeki kopmalar, özellikle hammadde ithalatına bağımlı olan sektörleri derinden ____.",
+      "missingWordTr": "sarsmıştır",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Hukuk sisteminin şeffaf ve adil bir şekilde işlememesi, vatandaşların devlete olan güvenini telafisi zor şekilde ____.",
+      "missingWordTr": "zedeler",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Obezite oranlarındaki artışın önüne geçilebilmesi için, devlet eliyle kapsamlı halk sağlığı politikalarının acilen ____ gerekmektedir.",
+      "missingWordTr": "uygulanması",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Bu denli köklü bir ideolojik değişimin, bir gecede ve hiçbir tepki almadan gerçekleşmesini beklemek oldukça ____ bir yaklaşımdır.",
+      "missingWordTr": "safça",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Evrim teorisi, yalnızca biyolojik bir süreç olarak değil, aynı zamanda canlıların çevrelerine adaptasyon yeteneği olarak da ____.",
+      "missingWordTr": "okunmalıdır",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Bağımsız gazeteciliğin varlığı, demokratik toplumların otoriter rejimlere dönüşmesini engelleyen en güçlü ____ mekanizmasıdır.",
+      "missingWordTr": "denetim",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Bir şirketin marka itibarını inşa etmesi yıllar alırken, ufak bir kriz yönetimi hatasıyla bunu ____ dakikalar sürebilir.",
+      "missingWordTr": "yıkması",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Gelişmekte olan ülkelerdeki beyin göçünün asıl sebebi, ekonomik sıkıntılardan ziyade liyakate dayalı bir sistemin ____.",
+      "missingWordTr": "olmamasıdır",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Filozofa göre, insanın mutlak bir özgürlüğe sahip olduğu düşüncesi, aslında kendi koyduğu sınırlara olan körlüğünden ____.",
+      "missingWordTr": "kaynaklanır",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Ekolojik dengenin bu denli bozulmasının faturası, sadece bize değil bizden sonraki nesillere de çok ağır ____.",
+      "missingWordTr": "çıkacaktır",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Kariyeri boyunca elde ettiği tüm başarıları, asla pes etmeyen o inatçı ve kararlı karakterine ____.",
+      "missingWordTr": "borçludur",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Diplomatik teamüllere aykırı yapılan bu açıklama, iki ülke arasındaki ilişkileri geri dönülemez bir yola ____ tehlikesi taşıyor.",
+      "missingWordTr": "sokma",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Modern mimaride cam ve çeliğin yoğun kullanımı, estetik kaygıların ötesinde ışığın mekan içindeki dağılımını ____.",
+      "missingWordTr": "maksimize etmektir",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Bir toplumda sanatın desteklenmesi ve teşvik edilmesi, o toplumun kültürel ve ruhsal derinliğinin en büyük ____.",
+      "missingWordTr": "göstergesidir",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Biyoteknoloji alanındaki hızlı ivmelenme, etik tartışmaların teknolojik gelişmelerin çok gerisinde ____ neden olmaktadır.",
+      "missingWordTr": "kalmasına",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Romanın baş kahramanı, ahlaki bir ikilemle karşı karşıya kaldığında kendi iç dünyasındaki zıtlıklarla adeta ____.",
+      "missingWordTr": "savaşır",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Eğitim politikalarının sürekli değişmesi, ne yazık ki hem öğretmenler hem de öğrenciler üzerinde derin bir belirsizlik ____.",
+      "missingWordTr": "yaratmaktadır",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Bilimsel araştırma fonlarının kesilmesi, ülkenin uzun vadede teknolojik rekabet gücünü büyük ölçüde ____.",
+      "missingWordTr": "baltalayacaktır",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Giderek yaşlanan nüfus problemi, birçok Avrupa ülkesini emeklilik sistemlerinde radikal reformlar yapmaya ____.",
+      "missingWordTr": "zorlamaktadır",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Sanatçı, eleştirmenlerin ağır yorumlarına aldırış etmeden kendi özgün çizgisinde eserler üretmeye devam ____.",
+      "missingWordTr": "etmiştir",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Bir metnin bağlamından koparılarak yorumlanması, yazarın asıl niyetinin tamamen saptırılmasına zemin ____.",
+      "missingWordTr": "hazırlar",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Kurum içindeki yolsuzlukların üstünün örtülmeye çalışılması, halkın adalete olan inancını temelinden ____.",
+      "missingWordTr": "sarsmaktadır",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "İnsan beyninin karar verme mekanizmaları, sanıldığının aksine mantıktan çok duygusal dürtülerin ____ altındadır.",
+      "missingWordTr": "etkisi",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Diplomatik görüşmelerin tıkandığı noktada, uluslararası sivil toplum kuruluşlarının arabuluculuğu kritik bir önem ____.",
+      "missingWordTr": "arz edebilir",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Son yirmi yılda dijital mecralara kayan reklam sektörü, geleneksel medyanın gelir kaynaklarını büyük oranda ____.",
+      "missingWordTr": "kurutmuştur",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Klasik iktisat teorileri, insan rasyonalitesini merkeze alırken, davranışsal ekonomi duygusal sapmaları da hesaba ____.",
+      "missingWordTr": "katar",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Farklı etnik grupların entegrasyonu başarıyla sağlanamadığında, toplum içinde kutuplaşma ve ayrışmaların yaşanması ____.",
+      "missingWordTr": "kaçınılmazdır",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    }
+  ]
+}

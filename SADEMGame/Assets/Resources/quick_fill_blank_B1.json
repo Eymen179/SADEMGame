@@ -1,0 +1,805 @@
+{
+  "level": "B1",
+  "questions": [
+    {
+      "sentenceWithBlankTr": "Boş zamanlarımda roman ____ çok severim.",
+      "missingWordTr": "okumayı",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Bu konu hakkında ne ____ merak ediyorum.",
+      "missingWordTr": "düşündüğünü",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Tatile çıkmadan önce uçak ____ almalıyız.",
+      "missingWordTr": "biletimizi",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Yeni bir dil öğrenmek büyük bir ____ gerektirir.",
+      "missingWordTr": "sabır",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Trafik çok yoğun olduğu için toplantıya ____ kaldım.",
+      "missingWordTr": "geç",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Sağlıklı yaşamak için düzenli olarak ____ yapmalısın.",
+      "missingWordTr": "spor",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Yarın sabahki önemli toplantıya kimler ____?",
+      "missingWordTr": "katılacak",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Bu güzel kitabı okumayı herkese ____ ederim.",
+      "missingWordTr": "tavsiye",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Masanın üzerindeki bardak aniden yere düşüp ____.",
+      "missingWordTr": "kırıldı",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Yeni işime önümüzdeki hafta pazartesi günü ____.",
+      "missingWordTr": "başlayacağım",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Çevreyi korumak hepimizin en büyük ____ olmalıdır.",
+      "missingWordTr": "sorumluluğu",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Başarılı olmak için her gün düzenli ____ gerekiyor.",
+      "missingWordTr": "çalışmak",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Bugün hava çok güneşli, biraz dışarı ____.",
+      "missingWordTr": "çıkalım",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Sınavdan iyi bir not aldığı için çok ____.",
+      "missingWordTr": "mutlu",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Her sabah uyanır uyanmaz bir fincan kahve ____.",
+      "missingWordTr": "içerim",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Arkadaşlarımla buluşmak için kafeye doğru ____.",
+      "missingWordTr": "yürüyorum",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "O kadar yorgunum ki hemen uyumak ____.",
+      "missingWordTr": "istiyorum",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Hafta sonu ailemle birlikte piknik yapmaya ____.",
+      "missingWordTr": "gideceğiz",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Sorunları çözmek için daha fazla ____ kurmalıyız.",
+      "missingWordTr": "iletişim",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Bu proje bana büyük bir ____ kazandıracak.",
+      "missingWordTr": "tecrübe",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Akşam yemeği için harika bir menü ____.",
+      "missingWordTr": "hazırladım",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Teknoloji hızla geliştiği için hayatımız ____.",
+      "missingWordTr": "kolaylaşıyor",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Yaz tatilinde deniz kenarında bir ev ____ istiyoruz.",
+      "missingWordTr": "kiralamak",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Kilo vermek istiyorsan tatlı yemeyi ____.",
+      "missingWordTr": "bırakmalısın",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Film o kadar sıkıcıydı ki yarısında ____.",
+      "missingWordTr": "uyuyakaldım",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "İnternetten aldığım ayakkabı ayağıma ____.",
+      "missingWordTr": "uymadı",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Farklı kültürleri tanımak için çok fazla ____ ediyorum.",
+      "missingWordTr": "seyahat",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Misafirler gelmeden önce bütün evi temizleyip ____.",
+      "missingWordTr": "düzenledim",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Bu zor karar konusunda bana ____ verir misin?",
+      "missingWordTr": "akıl",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Dün gece yağan yağmur bütün sokakları ____.",
+      "missingWordTr": "ıslattı",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Maaşımı alır almaz kredi borcumu ____.",
+      "missingWordTr": "ödeyeceğim",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Biletler çok çabuk tükendiği için konsere ____.",
+      "missingWordTr": "gidemedik",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Eski fotoğraflara bakarken lise yıllarımı ____.",
+      "missingWordTr": "hatırladım",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Yeni taşındığım mahalledeki komşularım çok ____.",
+      "missingWordTr": "yardımsever",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Doktor sağlığım için bol bol su ____ söyledi.",
+      "missingWordTr": "içmemi",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Sana anlattığım sırrı kimseye ____ söz ver.",
+      "missingWordTr": "söylemeyeceğine",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Gelecek ay yapacağımız proje için çok ____.",
+      "missingWordTr": "heyecanlıyım",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Restorandaki yemekler hem çok lezzetli hem de ____.",
+      "missingWordTr": "ucuzdu",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Telefonumu evde ____ için sana mesaj atamadım.",
+      "missingWordTr": "unuttuğum",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Otobüsü kaçırdığım için iş yerine taksiyle ____ zorunda kaldım.",
+      "missingWordTr": "gitmek",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Üniversiteden mezun olduktan sonra kendi şirketimi ____ istiyorum.",
+      "missingWordTr": "kurmak",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Hava soğuk olduğu için dışarı çıkarken montunu ____.",
+      "missingWordTr": "giymelisin",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Soruları dikkatlice okumadan asla cevapları ____.",
+      "missingWordTr": "işaretleme",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Dün pazardan taze meyve ve sebze ____.",
+      "missingWordTr": "satın aldım",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Ona yardım etmek istedim ama teklifimi ____.",
+      "missingWordTr": "reddetti",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Bilgisayarım bozulduğu için bütün belgelerim ____.",
+      "missingWordTr": "silindi",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Eğer vaktin varsa akşam bize ____ gelebilirsin.",
+      "missingWordTr": "misafirliğe",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Müzedeki tarihi eserleri görmek beni çok ____.",
+      "missingWordTr": "etkiledi",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "İzlediğim belgesel doğanın ne kadar muazzam olduğunu ____.",
+      "missingWordTr": "gösteriyor",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Hayallerine ulaşmak için asla pes etmeden ____.",
+      "missingWordTr": "çabalamalısın",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Gürültüden nefret ettiğim için sessiz bir kasabada ____ istiyorum.",
+      "missingWordTr": "yaşamak",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Arkadaşımın doğum günü için ona sürpriz bir parti ____.",
+      "missingWordTr": "planladık",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Cüzdanımı kaybettiğim için polisi arayıp ____ verdim.",
+      "missingWordTr": "haber",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Son okuduğum kitabın yazarı çok ünlü bir ____.",
+      "missingWordTr": "gazeteci",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Odayı havalandırmak için lütfen camı biraz ____.",
+      "missingWordTr": "açar mısın",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Bu restoranda yer bulmak için haftalar öncesinden ____ yapmak lazım.",
+      "missingWordTr": "rezervasyon",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Küçük kardeşim bisiklet sürmeyi nihayet ____.",
+      "missingWordTr": "öğrendi",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Stresi azaltmak için her akşam yarım saat yürüyüş ____.",
+      "missingWordTr": "yapıyorum",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Yabancı dil öğrenirken sık sık pratik yapmak ____.",
+      "missingWordTr": "şarttır",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Uçağın kalkmasına daha iki saat olduğu için kafede ____.",
+      "missingWordTr": "bekledik",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Onunla ilk tanıştığımızda bana çok soğuk ____.",
+      "missingWordTr": "davranmıştı",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "İşe giderken radyoda her zaman müzik ____.",
+      "missingWordTr": "dinlerim",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Konser bileti alabilmek için saatlerce sırada ____.",
+      "missingWordTr": "bekledim",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Çocuklar parkta o kadar eğlendiler ki eve dönmek ____.",
+      "missingWordTr": "istemediler",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Eğer sınavı kazanırsam kendime yeni bir araba ____.",
+      "missingWordTr": "alacağım",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Kütüphanede ders çalışırken yüksek sesle konuşmak ____.",
+      "missingWordTr": "yasaktır",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Annem her bayramda hepimize harika hediyeler ____.",
+      "missingWordTr": "verir",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Öğretmenimiz derste anlattığı konularla ilgili ödev ____.",
+      "missingWordTr": "verdi",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Dün akşam izlediğim tiyatro oyunu gerçekten ____.",
+      "missingWordTr": "muhteşemdi",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Sabah işe giderken anahtarlarımı kapının üzerinde ____.",
+      "missingWordTr": "unutmuşum",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Kedim bütün gün kanepede yatıp uyumayı ____.",
+      "missingWordTr": "seviyor",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Toplantıda sunum yaparken heyecandan ellerim ____.",
+      "missingWordTr": "titredi",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Mağazadaki indirimli ürünleri görünce hemen alışveriş ____.",
+      "missingWordTr": "yaptım",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Her insan hata yapabilir, önemli olan o hatadan ders ____.",
+      "missingWordTr": "çıkarmaktır",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Trafik kurallarına uymak can güvenliğimiz için çok ____.",
+      "missingWordTr": "önemlidir",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Yeni aldığım güneş gözlüğünü plajda ____.",
+      "missingWordTr": "kaybettim",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Diyet yaptığım için artık akşamları ağır yemekler ____.",
+      "missingWordTr": "yemiyorum",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Şehrin kalabalığından kaçıp doğayla iç içe olmak bana huzur ____.",
+      "missingWordTr": "veriyor",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Bilgisayarın şarjı bittiği için projeyi zamanında ____.",
+      "missingWordTr": "bitiremedim",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Doktor verdiği ilaçları saatinde almam gerektiğini ____.",
+      "missingWordTr": "söyledi",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Sabahları erken uyanıp kahvaltı yapmak beni güne ____.",
+      "missingWordTr": "hazırlar",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Kışın kar yağdığında dağ evine gitmek harika bir ____.",
+      "missingWordTr": "fikirdir",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Ev sahibimiz gelecek ay kiranın artacağını bize ____.",
+      "missingWordTr": "bildirdi",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Sürekli abur cubur yersen hızlıca kilo ____.",
+      "missingWordTr": "alırsın",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Ona olan borcumu ödemek için maaş gününü ____.",
+      "missingWordTr": "bekliyorum",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Küçüklüğümden beri en büyük hayalim dünyayı ____.",
+      "missingWordTr": "gezmek",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Bilet gişesindeki görevli filmin saat sekizde başlayacağını ____.",
+      "missingWordTr": "söyledi",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "İhtiyacı olan insanlara yardım etmek çok erdemli bir ____.",
+      "missingWordTr": "davranıştır",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Ablam üniversiteden mezun olduğu gün ailece çok ____.",
+      "missingWordTr": "sevindik",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Bu ayki faturalar beklediğimden çok daha yüksek ____.",
+      "missingWordTr": "geldi",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Eğer benimle gelmek istersen yarın sinemaya ____.",
+      "missingWordTr": "gidebiliriz",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Patronum çok çalıştığım için bana maaş zammı ____.",
+      "missingWordTr": "yaptı",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Yemek çok acı olduğu için sadece bir kaşık ____.",
+      "missingWordTr": "yiyebildim",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Hafta sonu evdeki bütün eski eşyaları ayırıp çöpe ____.",
+      "missingWordTr": "attım",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Sanat galerisindeki tabloları görünce resim yapmaya heves ____.",
+      "missingWordTr": "ettim",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Müzik dinlerken genelde klasik müzik türünü tercih ____.",
+      "missingWordTr": "ederim",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Yarınki sınav için bütün gece uyanık kalıp ____.",
+      "missingWordTr": "çalıştım",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Saçımı kestirmek için kuaförden öğleden sonraya randevu ____.",
+      "missingWordTr": "aldım",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Otelden ayrılırken resepsiyona oda anahtarını teslim ____.",
+      "missingWordTr": "ettik",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    },
+    {
+      "sentenceWithBlankTr": "Doğum günümde bana aldığı hediye paketini heyecanla ____.",
+      "missingWordTr": "açtım",
+      "sentenceWithBlankEn": "",
+      "missingWordEn": "",
+      "sentenceWithBlankDe": "",
+      "missingWordDe": ""
+    }
+  ]
+}
