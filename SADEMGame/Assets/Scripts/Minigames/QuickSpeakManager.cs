@@ -103,6 +103,18 @@ public class QuickSpeakManager : MonoBehaviour
         {
             witDictation.DictationEvents.OnPartialTranscription.RemoveListener(OnSpeechRecognized);
             witDictation.DictationEvents.OnFullTranscription.RemoveListener(OnSpeechRecognized);
+
+            /*if (witDictation.Active)
+            {
+                witDictation.DeactivateAndAbortRequest();
+            }*/
+        }
+    }
+    private void OnDestroy()
+    {
+        if (witDictation != null && witDictation.Active)
+        {
+            witDictation.DeactivateAndAbortRequest();
         }
     }
 
@@ -209,6 +221,22 @@ public class QuickSpeakManager : MonoBehaviour
     {
         string cleanText = transcribedText.Replace(".", "").Replace(",", "").Replace("?", "").Replace("!", "").Trim();
         inputFieldSpeakToText.text = cleanText.ToLower(new System.Globalization.CultureInfo("tr-TR"));
+    }
+
+    private void CleanUpWitAi()
+    {
+        // 1. Dinlemeyi zorla kes
+        if (witDictation != null && witDictation.Active)
+        {
+            witDictation.DeactivateAndAbortRequest();
+        }
+
+        // 2. Sahne hala aktifken (çökme riski yokken) o inatçý objeyi bul ve yok et
+        GameObject audioBufferObj = GameObject.Find("AudioBuffer");
+        if (audioBufferObj != null)
+        {
+            Destroy(audioBufferObj);
+        }
     }
 
     // --- BUTON METOTLARI ---
@@ -335,6 +363,8 @@ public class QuickSpeakManager : MonoBehaviour
     {
         AudioManager.Instance.PlayAudioClip("Sound_ButtonClick");
 
+        CleanUpWitAi();
+
         sessionScore = 0;
         sessionCorrectCount = 0;
         Time.timeScale = 1;
@@ -377,6 +407,8 @@ public class QuickSpeakManager : MonoBehaviour
     public void Button_RetryGame()
     {
         AudioManager.Instance.PlayAudioClip("Sound_ButtonClick");
+        
+        CleanUpWitAi();
 
         sessionScore = 0;
         sessionCorrectCount = 0;
@@ -386,6 +418,8 @@ public class QuickSpeakManager : MonoBehaviour
     public void Button_ReturnToMainMenu()
     {
         AudioManager.Instance.PlayAudioClip("Sound_ButtonClick");
+
+        CleanUpWitAi();
 
         sessionScore = 0;
         sessionCorrectCount = 0;
