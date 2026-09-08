@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 using TMPro;
-using DG.Tweening;
+using DG.Tweening; // YENI: DOTween eklendi
 
 public class QuickFillBlankManager : MonoBehaviour
 {
@@ -19,6 +19,9 @@ public class QuickFillBlankManager : MonoBehaviour
 
     [Header("Ortak Paneller")]
     public GameObject pnlPause;
+    // YENI: Pause panelinin icindeki asil pencere (hareket edecek kisim)
+    public RectTransform pnlPauseWindow;
+    public float pauseAnimDuration = 0.3f;
 
     [Header("Sonsuz Mod Panelleri")]
     public GameObject pnlDeath_Infinity;
@@ -31,7 +34,7 @@ public class QuickFillBlankManager : MonoBehaviour
     public TextMeshProUGUI txtDeathGuessCount_Level;
 
     [Header("Oyun Ici Kontroller")]
-    public TextMeshProUGUI txtSelectedSentence; // Cümlenin yazilacagi ust text
+    public TextMeshProUGUI txtSelectedSentence; // Cumlenin yazilacagi ust text
     public Button[] btnSelectableWords; // 4 adet secenek butonu
     public TextMeshProUGUI[] txtSelectableWords;
     public Button btnConfirm;
@@ -210,7 +213,7 @@ public class QuickFillBlankManager : MonoBehaviour
 
         bool isCorrect = (selectedWord == correctWord);
 
-        // YENI: Dinamik bekleme suresi
+        // Dinamik bekleme suresi
         float waitDuration = 0.5f;
 
         if (isCorrect)
@@ -246,14 +249,14 @@ public class QuickFillBlankManager : MonoBehaviour
                 }
             }
 
-            // YENI: Ceza 1 saniyeye dusuruldu
+            // Ceza 1 saniyeye dusuruldu
             timeRemaining -= 1f;
 
-            // YENI: Yanlis bilince bekleme suresi 2 saniyeye cikarildi
+            // Yanlis bilince bekleme suresi 2 saniyeye cikarildi
             waitDuration = 2f;
         }
 
-        // YENI: Belirlenen sure kadar bekle
+        // Belirlenen sure kadar bekle
         yield return new WaitForSeconds(waitDuration);
 
         if (timeRemaining <= 0)
@@ -326,7 +329,7 @@ public class QuickFillBlankManager : MonoBehaviour
     {
         isGameActive = false;
 
-        // YENÝ: LEVEL BÝTÝRME KAYDI (SAVE SÝSTEMÝ)
+        // YENI: LEVEL BÝTÝRME KAYDI (SAVE SISTEMI)
         if (!GameSessionData.IsInfinityMode)
         {
             string saveKey = $"Completed_{GameSessionData.SelectedLevel}_{GameSessionData.CurrentUnitIndex}_{GameSessionData.CurrentLevelIndex}";
@@ -337,14 +340,14 @@ public class QuickFillBlankManager : MonoBehaviour
         pnlWin_Level.SetActive(true);
     }
 
-    // --- YENÝ: NEXT LEVEL BUTONU ÝÇÝN METOT ---
+    // --- YENI: NEXT LEVEL BUTONU ÝÇÝN METOT ---
     public void Button_NextLevel()
     {
         AudioManager.Instance.PlayAudioClip("Sound_ButtonClick");
 
         int nextIndex = GameSessionData.CurrentLevelIndex + 1;
 
-        // Eðer 5. levelde (index 4) degilsek bir sonraki levele gec
+        // Eger 5. levelde (index 4) degilsek bir sonraki levele gec
         if (nextIndex < GameSessionData.CurrentUnitLevels.Count)
         {
             GameSessionData.CurrentLevelIndex = nextIndex;
@@ -356,27 +359,52 @@ public class QuickFillBlankManager : MonoBehaviour
         }
         else
         {
-            // 5. Level bittiyse (Ünite bittiyse) menuye geri don ve ilgili dilin Chapter panelini otomatik ac
+            // 5. Level bittiyse (Unite bittiyse) menuye geri don ve ilgili dilin Chapter panelini otomatik ac
             PlayerPrefs.SetString("AutoOpenChapter", GameSessionData.SelectedLevel);
             SceneController.Instance.LoadScene("LevelsMenu");
         }
     }
 
+    // YENI: Pause panel animasyonlari DOTween ile yapildi
     public void Button_PauseGame()
     {
         AudioManager.Instance.PlayAudioClip("Sound_ButtonClick");
 
         if (isAnimating) return;
         isGameActive = false;
+
+        // Paneli aktif et (Arka plan kararmasi gorunur olur)
         pnlPause.SetActive(true);
+        Time.timeScale = 0; // Zamani durdur
+
+        // Animasyon Baslangici: Paneli ekranin sol ust kosesine, kucultulmus bir sekilde koy
+        pnlPauseWindow.localPosition = new Vector3(-800f, 1500f, 0f);
+        pnlPauseWindow.localScale = Vector3.zero;
+
+        // Olasi onceki tweenleri iptal et
+        pnlPauseWindow.DOKill();
+
+        // Orta noktaya (0,0,0) getirirken scale'i 1 yap. SetUpdate(true) ile Time.timeScale=0'i yoksay
+        pnlPauseWindow.DOLocalMove(Vector3.zero, pauseAnimDuration).SetEase(Ease.OutBack).SetUpdate(true);
+        pnlPauseWindow.DOScale(Vector3.one, pauseAnimDuration).SetEase(Ease.OutBack).SetUpdate(true);
     }
 
     public void Button_ResumeGame()
     {
         AudioManager.Instance.PlayAudioClip("Sound_ButtonClick");
 
-        isGameActive = true;
-        pnlPause.SetActive(false);
+        // Olasi onceki tweenleri iptal et
+        pnlPauseWindow.DOKill();
+
+        // Paneli orta noktadan tekrar sol ust koseye ve 0 boyutuna dogru yolla
+        pnlPauseWindow.DOLocalMove(new Vector3(-800f, 1500f, 0f), pauseAnimDuration).SetEase(Ease.InBack).SetUpdate(true);
+        pnlPauseWindow.DOScale(Vector3.zero, pauseAnimDuration).SetEase(Ease.InBack).SetUpdate(true).OnComplete(() =>
+        {
+            // Animasyon tamamen bittiginde paneli kapat ve oyunu baslat
+            pnlPause.SetActive(false);
+            isGameActive = true;
+            Time.timeScale = 1;
+        });
     }
 
     public void Button_RetryGame()

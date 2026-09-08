@@ -1,3 +1,4 @@
+using DG.Tweening;
 using System.Collections;
 using System.Collections.Generic;
 using TMPro;
@@ -22,6 +23,8 @@ public class FastTypingManager : MonoBehaviour
 {
     [Header("Ortak Paneller")]
     public GameObject pnlPause;
+    public RectTransform pnlPauseWindow;
+    public float pauseAnimDuration = 0.3f;
 
     [Header("Sonsuz Mod (Infinity) Panelleri")]
     public GameObject pnlDeath_Infinity;
@@ -440,20 +443,43 @@ public class FastTypingManager : MonoBehaviour
         AudioManager.Instance.PlayAudioClip("Sound_ButtonClick");
 
         isGameActive = false;
-        Time.timeScale = 0;
+
+        // 1. Paneli aktif et (Arka plan kararmasi gorunur olur)
         pnlPause.SetActive(true);
+        Time.timeScale = 0; // Zamani durdur
+
         InputUIActivationSettings(false);
         if (wordInputField != null) wordInputField.DeactivateInputField();
+
+        // 2. Animasyon Baslangici: Paneli ekranin sol ust kosesine, kucultulmus bir sekilde koy
+        pnlPauseWindow.localPosition = new Vector3(-800f, 1500f, 0f);
+        pnlPauseWindow.localScale = Vector3.zero;
+
+        // Olasi onceki tweenleri iptal et
+        pnlPauseWindow.DOKill();
+
+        // 3. Orta noktaya (0,0,0) getirirken scale'i 1 yap. SetUpdate(true) ile Time.timeScale=0'i yoksay
+        pnlPauseWindow.DOLocalMove(Vector3.zero, pauseAnimDuration).SetEase(Ease.OutBack).SetUpdate(true);
+        pnlPauseWindow.DOScale(Vector3.one, pauseAnimDuration).SetEase(Ease.OutBack).SetUpdate(true);
     }
 
     public void Button_ResumeGame()
     {
         AudioManager.Instance.PlayAudioClip("Sound_ButtonClick");
 
-        isGameActive = true;
-        Time.timeScale = 1;
-        InputUIActivationSettings(true);
-        pnlPause.SetActive(false);
+        // Olasi onceki tweenleri iptal et
+        pnlPauseWindow.DOKill();
+
+        // 1. Paneli orta noktadan tekrar sol ust koseye ve 0 boyutuna dogru yolla
+        pnlPauseWindow.DOLocalMove(new Vector3(-800f, 1500f, 0f), pauseAnimDuration).SetEase(Ease.InBack).SetUpdate(true);
+        pnlPauseWindow.DOScale(Vector3.zero, pauseAnimDuration).SetEase(Ease.InBack).SetUpdate(true).OnComplete(() =>
+        {
+            // 2. Animasyon tamamen bittiginde paneli kapat ve oyunu baslat
+            pnlPause.SetActive(false);
+            isGameActive = true;
+            Time.timeScale = 1;
+            InputUIActivationSettings(true);
+        });
     }
 
     public void Button_RetryGame()

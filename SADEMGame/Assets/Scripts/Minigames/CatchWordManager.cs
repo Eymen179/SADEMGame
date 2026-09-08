@@ -41,6 +41,8 @@ public class CatchWordManager : MonoBehaviour
 
     [Header("Ortak Paneller")]
     public GameObject pnlPause;
+    public RectTransform pnlPauseWindow;
+    public float pauseAnimDuration = 0.3f;
 
     [Header("Sonsuz Mod Panelleri")]
     public GameObject pnlDeath_Infinity;
@@ -442,17 +444,36 @@ public class CatchWordManager : MonoBehaviour
         AudioManager.Instance.PlayAudioClip("Sound_ButtonClick");
 
         isGameActive = false;
+
         pnlPause.SetActive(true);
-        Time.timeScale = 0;
+        Time.timeScale = 0; // Zamaný durdur
+
+        // Panel baslangic konumu ve boyutu
+        pnlPauseWindow.localPosition = new Vector3(-800f, 1500f, 0f);
+        pnlPauseWindow.localScale = Vector3.zero;
+
+        pnlPauseWindow.DOKill();
+
+        // Orta noktaya hareket + boyut islemleri. SetUpdate(true) ile zaman donuk olsa bile animasyonun devam etmesi saglanir.
+        pnlPauseWindow.DOLocalMove(Vector3.zero, pauseAnimDuration).SetEase(Ease.OutBack).SetUpdate(true);
+        pnlPauseWindow.DOScale(Vector3.one, pauseAnimDuration).SetEase(Ease.OutBack).SetUpdate(true);
     }
 
     public void Button_ResumeGame()
     {
         AudioManager.Instance.PlayAudioClip("Sound_ButtonClick");
 
-        isGameActive = true;
-        pnlPause.SetActive(false);
-        Time.timeScale = 1;
+        pnlPauseWindow.DOKill();
+
+        // Sol ust koseye hareket + boyut islemleri. SetUpdate(true) ile zaman donuk olsa bile animasyonun devam etmesi saglanir.
+        pnlPauseWindow.DOLocalMove(new Vector3(-800f, 1500f, 0f), pauseAnimDuration).SetEase(Ease.InBack).SetUpdate(true);
+        pnlPauseWindow.DOScale(Vector3.zero, pauseAnimDuration).SetEase(Ease.InBack).SetUpdate(true).OnComplete(() =>
+        {
+            // Panel kapanma ve zamani geri getirme islemleri
+            pnlPause.SetActive(false);
+            isGameActive = true;
+            Time.timeScale = 1;
+        });
     }
 
     public void Button_RetryGame()

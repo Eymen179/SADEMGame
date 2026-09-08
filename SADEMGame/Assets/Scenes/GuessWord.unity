@@ -33954,6 +33954,8 @@ MonoBehaviour:
   imgLanguageLevel: {fileID: 681672891}
   txtGuessCount: {fileID: 614033298}
   pnlPause: {fileID: 1068339926}
+  pnlPauseWindow: {fileID: 1068339927}
+  pauseAnimDuration: 0.3
   pnlDeath_Infinity: {fileID: 131763917}
   pnlNextWord_Infinity: {fileID: 1704464776}
   pnlDeath_Level: {fileID: 248272226}

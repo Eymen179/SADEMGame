@@ -7495,6 +7495,8 @@ MonoBehaviour:
   txtScore: {fileID: 1049617776}
   imgTime: {fileID: 611413398}
   pnlPause: {fileID: 1068339926}
+  pnlPauseWindow: {fileID: 1068339927}
+  pauseAnimDuration: 0.3
   pnlDeath_Infinity: {fileID: 131763917}
   txtDeathScore_Infinity: {fileID: 541677519}
   txtHighScore_Infinity: {fileID: 335862836}

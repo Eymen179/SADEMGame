@@ -4,9 +4,9 @@ using UnityEngine;
 using UnityEngine.UI;
 using TMPro;
 using DG.Tweening;
-// YENÝ: Oculus kütüphanesi yerine Saf Wit.ai kütüphanesi eklendi
+// YENI: Oculus kutuphanesi yerine Saf Wit.ai kutuphanesi eklendi
 using Meta.WitAi.Dictation;
-// YENÝ: Android izinleri için gerekli kütüphane eklendi
+// YENI: Android izinleri icin gerekli kutuphane eklendi
 using UnityEngine.Android;
 
 [System.Serializable]
@@ -40,6 +40,9 @@ public class QuickSpeakManager : MonoBehaviour
 
     [Header("Ortak Paneller")]
     public GameObject pnlPause;
+    // YENI: Pause panelinin icindeki asil pencere (hareket edecek kisim)
+    public RectTransform pnlPauseWindow;
+    public float pauseAnimDuration = 0.3f;
 
     [Header("Sonsuz Mod Panelleri")]
     public GameObject pnlDeath_Infinity;
@@ -61,7 +64,7 @@ public class QuickSpeakManager : MonoBehaviour
     public Color colorMicListening = Color.green;
 
     [Header("Voice SDK (Ses Motoru)")]
-    // YENÝ: AppDictationExperience yerine WitDictation kullanýyoruz
+    // YENI: AppDictationExperience yerine WitDictation kullaniyoruz
     public WitDictation witDictation;
 
     // --- Zaman Degiskenleri ---
@@ -83,8 +86,8 @@ public class QuickSpeakManager : MonoBehaviour
 
     private void Awake()
     {
-        // MANIFEST HACK: Unity'nin mikrofon kullandýðýmýzý algýlayýp APK'ya 
-        // RECORD_AUDIO iznini zorla yazdýrmasý için eklenmiþ sahte bir kod.
+        // MANIFEST HACK: Unity'nin mikrofon kullandigimizi algilayip APK'ya 
+        // RECORD_AUDIO iznini zorla yazdirmasi icin eklenmis sahte bir kod.
         if (Microphone.devices.Length > 0) { string dummy = Microphone.devices[0]; }
     }
 
@@ -103,11 +106,6 @@ public class QuickSpeakManager : MonoBehaviour
         {
             witDictation.DictationEvents.OnPartialTranscription.RemoveListener(OnSpeechRecognized);
             witDictation.DictationEvents.OnFullTranscription.RemoveListener(OnSpeechRecognized);
-
-            /*if (witDictation.Active)
-            {
-                witDictation.DeactivateAndAbortRequest();
-            }*/
         }
     }
     private void OnDestroy()
@@ -120,7 +118,7 @@ public class QuickSpeakManager : MonoBehaviour
 
     void Start()
     {
-        // ANDROID MIKROFON ÝZNÝ KONTROLÜ
+        // ANDROID MIKROFON IZNI KONTROLU
         if (!Permission.HasUserAuthorizedPermission(Permission.Microphone))
         {
             Permission.RequestUserPermission(Permission.Microphone);
@@ -231,7 +229,7 @@ public class QuickSpeakManager : MonoBehaviour
             witDictation.DeactivateAndAbortRequest();
         }
 
-        // 2. Sahne hala aktifken (çökme riski yokken) o inatçý objeyi bul ve yok et
+        // 2. Sahne hala aktifken (cokme riski yokken) o inatci objeyi bul ve yok et
         GameObject audioBufferObj = GameObject.Find("AudioBuffer");
         if (audioBufferObj != null)
         {
@@ -339,7 +337,7 @@ public class QuickSpeakManager : MonoBehaviour
         }
         else
         {
-            if (txtDeathGuessCount_Level != null) txtDeathGuessCount_Level.text = sessionCorrectCount.ToString() + "/" + levelTargetCount.ToString() + " Doðru";
+            if (txtDeathGuessCount_Level != null) txtDeathGuessCount_Level.text = sessionCorrectCount.ToString() + "/" + levelTargetCount.ToString() + " Dogru";
             pnlDeath_Level.SetActive(true);
         }
     }
@@ -393,21 +391,45 @@ public class QuickSpeakManager : MonoBehaviour
 
         isGameActive = false;
         if (witDictation != null) witDictation.Deactivate();
+
+        // Paneli aktif et (Arka plan kararmasi gorunur olur)
         pnlPause.SetActive(true);
+        Time.timeScale = 0; // Zamani durdur
+
+        // Animasyon Baslangici: Paneli ekranin sol ust kosesine, kucultulmus bir sekilde koy
+        pnlPauseWindow.localPosition = new Vector3(-800f, 1500f, 0f);
+        pnlPauseWindow.localScale = Vector3.zero;
+
+        // Olasi onceki tweenleri iptal et
+        pnlPauseWindow.DOKill();
+
+        // Orta noktaya (0,0,0) getirirken scale'i 1 yap. SetUpdate(true) ile Time.timeScale=0'i yoksay
+        pnlPauseWindow.DOLocalMove(Vector3.zero, pauseAnimDuration).SetEase(Ease.OutBack).SetUpdate(true);
+        pnlPauseWindow.DOScale(Vector3.one, pauseAnimDuration).SetEase(Ease.OutBack).SetUpdate(true);
     }
 
     public void Button_ResumeGame()
     {
         AudioManager.Instance.PlayAudioClip("Sound_ButtonClick");
 
-        isGameActive = true;
-        pnlPause.SetActive(false);
+        // Olasi onceki tweenleri iptal et
+        pnlPauseWindow.DOKill();
+
+        // Paneli orta noktadan tekrar sol ust koseye ve 0 boyutuna dogru yolla
+        pnlPauseWindow.DOLocalMove(new Vector3(-800f, 1500f, 0f), pauseAnimDuration).SetEase(Ease.InBack).SetUpdate(true);
+        pnlPauseWindow.DOScale(Vector3.zero, pauseAnimDuration).SetEase(Ease.InBack).SetUpdate(true).OnComplete(() =>
+        {
+            // Animasyon tamamen bittiginde paneli kapat ve oyunu baslat
+            pnlPause.SetActive(false);
+            isGameActive = true;
+            Time.timeScale = 1;
+        });
     }
 
     public void Button_RetryGame()
     {
         AudioManager.Instance.PlayAudioClip("Sound_ButtonClick");
-        
+
         CleanUpWitAi();
 
         sessionScore = 0;

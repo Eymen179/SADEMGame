@@ -6725,6 +6725,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   pnlPause: {fileID: 1068339926}
+  pnlPauseWindow: {fileID: 1068339927}
+  pauseAnimDuration: 0.3
   pnlDeath_Infinity: {fileID: 131763917}
   pnlWin_Level: {fileID: 188786064}
   pnlDeath_Level: {fileID: 1791213482}
