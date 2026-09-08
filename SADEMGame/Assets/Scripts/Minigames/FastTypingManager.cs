@@ -370,7 +370,6 @@ public class FastTypingManager : MonoBehaviour
     {
         isGameActive = false;
         Time.timeScale = 0;
-        pnlDeath_Infinity.SetActive(true);
         InputUIActivationSettings(false);
 
         float multiplier = levelMultipliers[GameSessionData.SelectedLevel];
@@ -385,13 +384,21 @@ public class FastTypingManager : MonoBehaviour
             PlayerPrefs.SetInt("HighScore_FastTyping_" + GameSessionData.SelectedLevel, highScore);
         }
         if (txtHighScore != null) txtHighScore.text = highScore.ToString();
+
+        // YENI: Olum panelini DOTween ile ekrana buyuterek cagiriyoruz
+        pnlDeath_Infinity.SetActive(true);
+        pnlDeath_Infinity.transform.localScale = Vector3.zero;
+        pnlDeath_Infinity.transform.DOScale(Vector3.one, pauseAnimDuration).SetEase(Ease.OutBack).SetUpdate(true);
     }
 
     void GameOverLevel()
     {
         isGameActive = false;
         Time.timeScale = 0;
+        // YENI: Olum panelini DOTween ile ekrana buyuterek cagiriyoruz
         pnlDeath_Level.SetActive(true);
+        pnlDeath_Level.transform.localScale = Vector3.zero;
+        pnlDeath_Level.transform.DOScale(Vector3.one, pauseAnimDuration).SetEase(Ease.OutBack).SetUpdate(true);
         InputUIActivationSettings(false);
     }
 
@@ -407,7 +414,10 @@ public class FastTypingManager : MonoBehaviour
             PlayerPrefs.Save();
         }
 
+        // YENI: Kazanma panelini DOTween ile ekrana buyuterek cagiriyoruz
         pnlWin_Level.SetActive(true);
+        pnlWin_Level.transform.localScale = Vector3.zero;
+        pnlWin_Level.transform.DOScale(Vector3.one, pauseAnimDuration).SetEase(Ease.OutBack).SetUpdate(true);
         InputUIActivationSettings(false);
     }
 

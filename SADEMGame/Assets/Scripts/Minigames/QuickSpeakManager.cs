@@ -333,12 +333,18 @@ public class QuickSpeakManager : MonoBehaviour
             }
             if (txtHighScore_Infinity != null) txtHighScore_Infinity.text = "Rekor: " + highScore.ToString();
 
+            // YENI: Olum panelini DOTween ile ekrana buyuterek cagiriyoruz
             pnlDeath_Infinity.SetActive(true);
+            pnlDeath_Infinity.transform.localScale = Vector3.zero;
+            pnlDeath_Infinity.transform.DOScale(Vector3.one, pauseAnimDuration).SetEase(Ease.OutBack).SetUpdate(true);
         }
         else
         {
             if (txtDeathGuessCount_Level != null) txtDeathGuessCount_Level.text = sessionCorrectCount.ToString() + "/" + levelTargetCount.ToString() + " Dogru";
+            // YENI: Olum panelini DOTween ile ekrana buyuterek cagiriyoruz
             pnlDeath_Level.SetActive(true);
+            pnlDeath_Level.transform.localScale = Vector3.zero;
+            pnlDeath_Level.transform.DOScale(Vector3.one, pauseAnimDuration).SetEase(Ease.OutBack).SetUpdate(true);
         }
     }
 
@@ -354,7 +360,10 @@ public class QuickSpeakManager : MonoBehaviour
             PlayerPrefs.Save();
         }
 
+        // YENI: Kazanma panelini DOTween ile ekrana buyuterek cagiriyoruz
         pnlWin_Level.SetActive(true);
+        pnlWin_Level.transform.localScale = Vector3.zero;
+        pnlWin_Level.transform.DOScale(Vector3.one, pauseAnimDuration).SetEase(Ease.OutBack).SetUpdate(true);
     }
 
     public void Button_NextLevel()
